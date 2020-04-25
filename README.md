@@ -1,2 +1,2 @@
 # school21
- C library / 21school (Ecole42)
+Some code of 21school(Ecole42) projects and exercises.
